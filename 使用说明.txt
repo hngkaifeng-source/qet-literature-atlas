@@ -1,0 +1,32 @@
+QET 文献图谱：独立网站导出包
+导出日期：2026年10月5日；文献整理截至2026年10月4日。
+
+一、本地打开（Windows）
+1. 下载本 ZIP 文件。
+2. 在文件资源管理器中右键 ZIP，选择“全部提取”，再点击“提取”。
+3. 进入解压后的 QET_Standalone_Website 文件夹。
+4. 双击 index.html；如果没有用浏览器打开，右键它，选择“打开方式”中的 Chrome 或 Edge。
+5. 地球、年份统计、机构与人员、研究主题均可离线使用。论文及机构外部链接需要联网。
+6. 不要直接在 ZIP 压缩包窗口里打开网页；请先完整解压。
+
+二、分享给别人
+直接发送这个 ZIP 文件。对方完整解压后双击 index.html，不需要 ChatGPT 账号。
+
+三、发布成独立网站
+把本文件夹内全部内容上传到你选择的静态网站空间，确保 index.html 位于网站根目录，assets 文件夹与它同级。
+网页没有 ChatGPT 登录依赖、后端服务、数据库或 API 密钥。
+发布后使用该网站空间给出的 URL 分享即可，对方不需要 ChatGPT。
+本次仅导出，没有上传到外部服务器或把原 ChatGPT Site 改为公开。
+
+四、收藏网址（Windows Chrome / Edge）
+打开网页后按 Ctrl+D，名称填写“QET文献图谱”，文件夹选“书签栏”（Chrome）或“收藏夹栏”（Edge），点击“完成”。
+按 Ctrl+Shift+B 可以显示/隐藏书签栏或收藏夹栏。
+如果收藏的是本地 index.html，移动或删除解压文件夹后书签可能失效。
+已有云端图谱：https://qet-research-atlas.hngkaifeng.chatgpt.site
+
+五、内容与版权说明
+本包是当前版本快照，不会自动接收以后在 ChatGPT 中对图谱所做的修改。
+保留70条基线记录、统计与证据说明；并非声称穷尽全球 QET 文献。
+照片来自机构公开人物主页，版权归原发布者；来源链接保留在页面内。
+地理数据来自 Natural Earth / world-atlas。D3 与 topojson-client 许可见 ThirdParty-Licenses.txt。
+assets/data.json 为可复用数据，assets 文件夹还包含完整整理稿与年度 CSV 统计表。
